@@ -7,7 +7,7 @@ import { Link, IndexLink } from 'react-router'
 class App extends Component {
 	render() {
     	return (
-			<div>
+			<div className="container">
 				<div className="bs-example">
 					<nav role="navigation" className="navbar navbar-default">
 						<div className="navbar-header">
@@ -35,6 +35,7 @@ class App extends Component {
 				</div>
 				
 				{this.props.children}
+
 			</div>
     	);
   	}
