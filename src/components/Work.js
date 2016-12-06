@@ -1,14 +1,12 @@
-import React, { Component } from 'react';
+import React from 'react';
 
-class Work extends Component {
-  render() {
+const Work = () =>  {
     return (
       <div className="app">
         <header className="primary-header"></header>
           Other Work
       </div>
     );
-  }
-}
+  };
 
 export default Work;

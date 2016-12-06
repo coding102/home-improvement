@@ -1,8 +1,7 @@
-import React, { Component } from 'react';
+import React from 'react';
 import './Home.css';
 
-class Home extends Component {
-  render() {
+const Home = () => {
     return (
         <div className="carousel fade-carousel slide" data-ride="carousel" data-interval="4000" id="bs-carousel">
             <div className="overlay"></div>
@@ -47,7 +46,6 @@ class Home extends Component {
             </div> 
         </div>
     );
-  }
-}
+  };
 
 export default Home;
