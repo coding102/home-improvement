@@ -3,49 +3,45 @@ import './Home.css';
 
 const Home = () => {
     return (
-        <div className="carousel fade-carousel slide" data-ride="carousel" data-interval="4000" id="bs-carousel">
-            <div className="overlay"></div>
-
+        <div id="carousel-example" className="carousel slide" data-ride="carousel">
             <ol className="carousel-indicators">
-                <li data-target="#bs-carousel" data-slide-to="0" className="active"></li>
-                <li data-target="#bs-carousel" data-slide-to="1"></li>
-                <li data-target="#bs-carousel" data-slide-to="2"></li>
+                <li data-target="#carousel-example" data-slide-to="0" className="active"></li>
+                <li data-target="#carousel-example" data-slide-to="1"></li>
+                <li data-target="#carousel-example" data-slide-to="2"></li>
             </ol>
-            
+
             <div className="carousel-inner">
-                <div className="item slides active">
-                <div className="slide-1"></div>
-                <div className="hero">
-                    <hgroup>
-                        <h1>We are creative</h1>        
-                        <h3>Get start your next awesome project</h3>
-                    </hgroup>
-                    <button className="btn btn-hero btn-lg" role="button">See all features</button>
+                <div className="item active">
+                <a href="#"><img src="http://placekitten.com/1600/600" role="presentation"  /></a>
+                <div className="carousel-caption">
+                    <h3>Meow</h3>
+                    <p>Just Kitten Around</p>
                 </div>
                 </div>
-                <div className="item slides">
-                <div className="slide-2"></div>
-                <div className="hero">        
-                    <hgroup>
-                        <h1>We are smart</h1>        
-                        <h3>Get start your next awesome project</h3>
-                    </hgroup>       
-                    <button className="btn btn-hero btn-lg" role="button">See all features</button>
+                <div className="item">
+                <a href="#"><img src="http://placekitten.com/1600/600" role="presentation"  /></a>
+                <div className="carousel-caption">
+                    <h3>Meow</h3>
+                    <p>Just Kitten Around</p>
                 </div>
                 </div>
-                <div className="item slides">
-                <div className="slide-3"></div>
-                <div className="hero">        
-                    <hgroup>
-                        <h1>We are amazing</h1>        
-                        <h3>Get start your next awesome project</h3>
-                    </hgroup>
-                    <button className="btn btn-hero btn-lg" role="button">See all features</button>
+                <div className="item">
+                <a href="#"><img src="http://placekitten.com/1600/600" role="presentation"  /></a>
+                <div className="carousel-caption">
+                    <h3>Meow</h3>
+                    <p>Just Kitten Around</p>
                 </div>
                 </div>
-            </div> 
+            </div>
+
+            <a className="left carousel-control" href="#carousel-example" data-slide="prev">
+                <span className="glyphicon glyphicon-chevron-left"></span>
+            </a>
+            <a className="right carousel-control" href="#carousel-example" data-slide="next">
+                <span className="glyphicon glyphicon-chevron-right"></span>
+            </a>
         </div>
     );
-  };
+};
 
 export default Home;
