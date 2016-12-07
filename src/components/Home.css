@@ -2,3 +2,12 @@
     position: relative;
     margin-top: -20px;
 }
+
+.row {
+    padding: 25px;
+}
+
+.image {
+    width: 50%;
+    margin: 0 auto;
+}
