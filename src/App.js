@@ -42,7 +42,7 @@ class App extends Component {
 						<div className="footer-left">
 
 							<h3>My Roofing<span>Contractor</span></h3>
-
+							<br />
 							<p className="footer-company-name">My Roofing Contractor &copy; 2016</p>
 						</div>
 

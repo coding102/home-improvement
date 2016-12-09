@@ -43,7 +43,8 @@ const Home = () => {
                 </a>
             </div>
 
-            
+            <br />
+
             <div className="row">
                 <div className="col-md-4 portfolio-item">
                     <div className="image">
@@ -54,7 +55,7 @@ const Home = () => {
                     <h3>
                         <a href="#">Project Name</a>
                     </h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+                    <p>Installing or replacing a roof? Protect your investment. Hire experienced craftsmen who provide quality and affordable roofing solutions.</p>
                 </div>
                 <div className="col-md-4 portfolio-item">
                     <div className="image">
@@ -65,7 +66,7 @@ const Home = () => {
                         <h3>
                             <a href="#">Project Name</a>
                         </h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+                        <p>Avoid more serious (and costly) roof damage by handling problems now. Our NJ roofing contractors can advise you on the most cost-effective roofing repair.</p>
                 </div>
                 <div className="col-md-4 portfolio-item">
                     <div className="image">
@@ -76,7 +77,7 @@ const Home = () => {
                     <h3>
                         <a href="#">Project Name</a>
                     </h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+                    <p>Roof leak repair? Storm damage? We’ll work outside of normal business hours to address your needs promptly and affordably.</p>
                 </div>
             </div>
 
