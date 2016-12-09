@@ -55,7 +55,7 @@ class App extends Component {
 
 							<div>
 								<i className="fa fa-phone"></i>
-								<p>(609) 516-8946</p>
+								<p><a href="tel:1-609-516-8946">(609) 516-8946</a></p>
 							</div>
 
 							<div>
