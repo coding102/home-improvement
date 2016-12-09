@@ -69,7 +69,7 @@ class App extends Component {
 
 							<p className="footer-company-about">
 								<span>About the company</span>
-								Serving New Jersey & Eastern Pennsylvania since 1995, we specialize is Roofing. From repairs to replacement we have your needs convered.  Our parent company, Diamond Contractors, can take care of your paver, interior and exterior painting services, drywall installation and repairs, and more.
+								Serving New Jersey & Eastern Pennsylvania since 1995, we specialize is Roofing. From repairs to replacement we have your needs convered.  
 							</p>
 
 							<div className="footer-icons">
