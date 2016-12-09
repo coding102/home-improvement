@@ -17,7 +17,7 @@ class App extends Component {
 								<span className="icon-bar"></span>
 								<span className="icon-bar"></span>
 							</button>
-							<a href="#" className="navbar-brand">Brand</a>
+							<a href="#" className="navbar-brand">My Roofing Contractor</a>
 						</div>
 
 						<div id="navbarCollapse" className="collapse navbar-collapse">
@@ -36,7 +36,56 @@ class App extends Component {
 				
 				{this.props.children}
 
-				
+				<div>
+					<footer className="footer-distributed">
+
+						<div className="footer-left">
+
+							<h3>My Roofing<span>Contractor</span></h3>
+
+							<p className="footer-company-name">My Roofing Contractor &copy; 2016</p>
+						</div>
+
+						<div className="footer-center">
+
+							<div>
+								<i className="fa fa-map-marker"></i>
+								<p><span>Hamilton</span> New Jersey</p>
+							</div>
+
+							<div>
+								<i className="fa fa-phone"></i>
+								<p>(609) 516-8946</p>
+							</div>
+
+							<div>
+								<i className="fa fa-envelope"></i>
+								<p><a href="mailto:info@diamond-contractors.com">info@diamond-contractors.com</a></p>
+							</div>
+
+						</div>
+
+						<div className="footer-right">
+
+							<p className="footer-company-about">
+								<span>About the company</span>
+								Serving New Jersey & Eastern Pennsylvania since 1995, we specialize is Roofing. From repairs to replacement we have your needs convered.  Our parent company, Diamond Contractors, can take care of your paver, interior and exterior painting services, drywall installation and repairs, and more.
+							</p>
+
+							<div className="footer-icons">
+
+								<a href="#"><i className="fa fa-facebook"></i></a>
+								<a href="#"><i className="fa fa-twitter"></i></a>
+								<a href="#"><i className="fa fa-linkedin"></i></a>
+								<a href="#"><i className="fa fa-github"></i></a>
+
+							</div>
+
+						</div>
+
+					</footer>
+
+				</div>
 
 			</div>
     	);

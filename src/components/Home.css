@@ -10,4 +10,9 @@
 .image {
     width: 50%;
     margin: 0 auto;
+    text-align: center;
+}
+
+.col-md-4 h3 {
+    text-align: center;
 }
