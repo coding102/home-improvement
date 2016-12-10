@@ -13,25 +13,13 @@ const Home = () => {
 
                 <div className="carousel-inner">
                     <div className="item active">
-                    <a href="#"><img src="https://lh3.googleusercontent.com/07lKtMBGCc6b--2KkWW7dxooSSuKksskAR-sZZ5omO3nU1XJd4l-C2VK-NN_HHJ3lDIC9lvZBHltEvZXOItkXq5QsxbxKOaFxFS7pOy2gyYVIUWsa0bI2gFAb0KEvxbl2ZbwIbcnohrmMRq6pb_c4v33umI_w5PLUP79rGhkY_G2YEVk-SaMEanbzV1W3Wfyy0RQA_FJLiDE__XHt1iK3sBQyhiQLDf15BUKO6ggKxlWwGqaMO9KBzVeimekGqMtLX07PM1XjieLYXYQqmMY5T_BK_mKSkpZuTRLbHDXGmHkYB2KHBkLgqLVA6PbgCdzLmmcnONaFqSv6uznH-WBYQrUNlQgRPtOREueF8vig8F6w3xFt1ptGirHV_RdwF6Xx8JC0e2v7RvTGWqv3J_WPcC10rPUBSrbd3sQ8Eq7dJ4ZhBz387rZTziq_jbF3VV6DfxL6VAbRznu2aRmY-2Z9BQCwR9mcCCospfj1UbkCOsVK-RXuEhyIjfptP7BYqDEDL4SMg3dBLbQi4xvDKQYqcJtp1kH9zi66lRutb4IIoEJCfxuC03_VmUydXFzUfc1FO_WDKa5CWzntlMd9-lw5EflJQ_I_kOfKBQeuhUxrWVn0h56uOUz=w2140-h1428-no" role="presentation"  /></a>
-                    <div className="carousel-caption">
-                        <h3>New Roof</h3>
-                        <p>Make Your Home New Again</p>
-                    </div>
+                    <a href="#"><img src="https://lh3.googleusercontent.com/QyI-YrobpE2vTvtZEXJMpl3JmEoXusqN8sUA2OdFyNR6eS57J6t1bNFs-zigynTDmgLj_d1xmghr_fAazp2l8JMDGWMqpG9xqQwjYxrvWZe5nKRnPoytO4ovHTwp2GpuXXJX6aRNY98dU59QMnh_fV4sTy7dlQeol7ryncYVOAoHCZ36fFoGp5ZRfaN2CVFYLeVC-b-YMpxTk0n4k3ZuYwsa7LYLHf_4sJeQBZz4Q_aUxZAVuGZErhlD_8gO7F0RD6ezsiwrx4RKv6_cBVd9JH9-TyfGC3P9Mdn_DSZabr0ZNJ43_qoLWYPWpcvbiQg2MW4I7oMy6tqAQm15Xp2p5YyM9nBaamXBKXbLY7IorPMveTKn3YghljrUc7L-k_TJ8QEa6BlvPUVjJwibYgv6shKYnzzxhQdDGCh88k0YHrv1jIkL79S7Aru1ZZT3o_3mcYeoelbJg3zT1I2w6_KCKlRrASDLBNc9DP49Oy2P6nf11nO1z4JDtcXHDtY4163kAEmL3xY0d1t9bGgmgl_TzDPjqqADkd6JfsRNlkxlbDjXcRus-MMPQC1snx1xdS8GgDMFWLLnuKPsSWkEe-iKFqgxv7XNK4zNcx7yqOqHMhBJpoqYTAJ6=w2662-h1000-no" role="presentation"  /></a>
                     </div>
                     <div className="item">
-                    <a href="#"><img src="https://lh3.googleusercontent.com/FRF81v5v99-KGSSpPuORHLJinQffu0YRBum1mhlkKIRyFFQIOSpNsfJQ5BuGUgiB0Evgtqt4wTCu0WJNVkt69eHPoMJtP6DIEwdm30ZUzNKeiifUcDoEai-wVpGOI-7sDBt998tMvvXadNz-8hjvsd7QifvTPNbmbM8jjVWWS05z-d_J5AgSyV8pblsv28lc7lThVfchypWJqN4yGtwNVRIId4W-qQM3Z6y3v7TZzyYGq_SIPDFW0FnMsUKjZ7B2AMlFQ15nGD8CmjjH9FBpgCg5dJdli50JqGBV15mJ9DFBR5JBr6LUG3qZjT957_lBDEWoor2PGOY5x1bDKy135X-Mlfun618WVgO7k6iFsTSyoji-SjMAVqxTwneAidH8u2l8Q_z6iCJhFVdSub7e6F651aNFCjDfF21sWsMtf2eAjUv-BLrGnCiB1MT53Gk8O2RhwT-8HY_8ehtviNYwP_HUPHzpAD0Kad5IkitZETBQ-Hrs7uJkM5nosutgsI_m5v6oqZee0uKAvWmJgjMM1HcOHd-hga7jvVS8ycUq9fNSuAzji7z8rcWGoRV6__YZLjcxNb5YPLc46TWBVyCItLsTRg59H-dK9K8mvjJam6FcOVgx1JWh=w2140-h1486-no" role="presentation" /></a>
-                    <div className="carousel-caption">
-                        <h3>Replace It</h3>
-                        <p>Make It Stand Out</p>
-                    </div>
+                    <a href="#"><img src="https://lh3.googleusercontent.com/D9zaY9PyPD50uRimDA1ivOFTbdxvhgYPcNMggtrEDILBVdioB4afUdSBAZdJYY4muBAL6O4y1QZY5I0wBJ-crr0X08a0oDOoYtgXFg--OQHeiExsCR-0MIn61SKc3QuPiMJqzfdXkmICIJT1cbrz1DOWashIYBE63VkzLFnMJqz-HVvlt91PJyEM-pz98V05u5mKTilCRaZqBY5lDIsCm1u5VVll6ejN87JfVLT3FMZGx6RMBc4aFrqWxyYpZV6nlEpa8yKB60OerGSNE6XIdFiziEXdsjjlfVLMmrHUdW-da3vGejZWxn1JKz2Nyy9dTf5GKrA4Og4sGJPtUYuUcSIhCD0_QBFi4_lAleHsvs9J8Jg8ixTlm6d1kB9MidraL-PPvN1QasCwLYnsdXgMY_wyHYdxMnJZpbhGEHgU143cwj7xS7wTzK3N_Z4_Pi7npOy6epuFujQAuy7B-WSC1ZfBrVXiBIZha0d0SzwxFxWcAZdVHrF2l-2yyTFoKZQMhpqsLqEOKDBpGSoAFLPdI4bMZ7Mop5MY9OgJ06d1FchR7SS23VyV--fxzE95P81_Q70pKxIQyxl1MimqeuAMwor9TRy94yMAplr4-VMoskU6m350giQf=w1600-h600-no" role="presentation" /></a>
                     </div>
                     <div className="item">
-                    <a href="#"><img src="https://lh3.googleusercontent.com/x5Nh7D9ea2nDR70-G65c-mecDufVnjDtWXvU_bpCo_EaaVz9DB8HiA9Y1JIjIEdKBkdosVsZei8j-OmxJXbajXZ41Kww7zBVqE8hlZL_rPagpILlA8OgLAaW-hSYrhpU_5RHrqWPciy3vg1DBsGSu9x5PN4goPZ0aSxjbWlFfFyMEZKUL30Va1GXXZ074I8PA23avAiMRq720pxFtR2iNbslij3pl8sZOcVVdAGFTr0XBCXlbKv-nnLHh6MYCp0fh3opk_i8ywP1QjT5xY1qEpyd6BgsePBdyIcL73WiV1yyfRL0hqPZxfvqD7s2cD0y93liWEXI1yNR3INbz7jkESpcqFSxU-bGi7Pc8O2Tsop1ChqNk8UPJjJyczJmYKDqXw8Xl25d3-Zx343EB6DCWXDw9vgrYhmd1zIoAq_o2Gu23heD-RqfQDbFYnR-L-Cf9LJR6ZVg53-Yhqh8bpAk7MAEK47-IK8lVI_t39WZsQLJYlY_BJ3RZVtVXAbGuTxhGi5mDj1Udx5B7o-yZ5mhAhVNlBDS3ae_myuDpoGr3KMPk6dqe5S9l-C4xShWYNDk4dx9Lg4UmKoWfevAkaViTzjb0zs40s4cNqPbYpPsX8TkZseo=w1942-h1512-no" role="presentation"  /></a>
-                    <div className="carousel-caption">
-                        <h3>Repairs</h3>
-                        <p>Do Not Wait</p>
-                    </div>
+                    <a href="#"><img src="https://lh3.googleusercontent.com/L0qEhmgJN2Zv5SunflCOG9j2G4UJLYGZqsNqaDXxxnQ3-ChY3azBkP2ycBBtmEtpCoDcUJDS09rbSkHidr-MElggkGYC5LY-OXeJKK6M6_ZQOVyjvQadx5cAwrZzraRi67R42NLjldSQnA0DoCHhlAULhsrG3CCwLuGroBS6RvXjBOZyy9KF_CVWYRvCzIU5qYKxiKgOxdkPukELyDmwEjsIRLEk4e6QqNj2Nn3qeeDGSrLLS9tFJIYc4vQYVnzZxPHTsmeC5ArU4PRDfqh0Is6QPCNdmnQwXp83iLlACEf6efaQZUK-pOjge9aJDrMWHgHspDX9t8ruHLHA9CQcZu9F4FaGC1NKVtRPuA9CFoOY5kTUlkKnl-_kRZGLgNLcMMPCbSf5RXRgPmd-SBhZwNR6-KAzpGUaIoLDnwJrV3nNoVsBj4FtZz-aE_6RNLiHNSmSDwMkpt_hKHFw16t1ErpAq_akFp2C8I1POqg-bekTJN_z9kePSgZTj2ohXUTZ3ouszNkw7Y689oYKKjyJhPvU8UGYUUfKwPzB290bfFlgu4HFvD02ISTI_g8yFN-NHiHnUubnbDqzD5yzZQFNCtC2O1n7VOd3vcdWKYfZCz8JlT5bpYnQ=w1600-h600-no" role="presentation"  /></a>
                     </div>
                 </div>
 
