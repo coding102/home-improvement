@@ -5,20 +5,13 @@
 
 .row {
     width: 100%;
-    padding: 85px;
+    padding-top: 65px;
     text-align: center;
     margin: 0;
 }
 
 img {
-    padding: 10px;
-    background-color: white;
-}
-
-.image {
-    width: 50%;
     margin: 0 auto;
-    text-align: center;
 }
 
 .col-md-4 h3 {

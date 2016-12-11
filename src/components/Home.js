@@ -13,13 +13,13 @@ const Home = () => {
 
                 <div className="carousel-inner">
                     <div className="item active">
-                    <a href="#"><img src="https://lh3.googleusercontent.com/QyI-YrobpE2vTvtZEXJMpl3JmEoXusqN8sUA2OdFyNR6eS57J6t1bNFs-zigynTDmgLj_d1xmghr_fAazp2l8JMDGWMqpG9xqQwjYxrvWZe5nKRnPoytO4ovHTwp2GpuXXJX6aRNY98dU59QMnh_fV4sTy7dlQeol7ryncYVOAoHCZ36fFoGp5ZRfaN2CVFYLeVC-b-YMpxTk0n4k3ZuYwsa7LYLHf_4sJeQBZz4Q_aUxZAVuGZErhlD_8gO7F0RD6ezsiwrx4RKv6_cBVd9JH9-TyfGC3P9Mdn_DSZabr0ZNJ43_qoLWYPWpcvbiQg2MW4I7oMy6tqAQm15Xp2p5YyM9nBaamXBKXbLY7IorPMveTKn3YghljrUc7L-k_TJ8QEa6BlvPUVjJwibYgv6shKYnzzxhQdDGCh88k0YHrv1jIkL79S7Aru1ZZT3o_3mcYeoelbJg3zT1I2w6_KCKlRrASDLBNc9DP49Oy2P6nf11nO1z4JDtcXHDtY4163kAEmL3xY0d1t9bGgmgl_TzDPjqqADkd6JfsRNlkxlbDjXcRus-MMPQC1snx1xdS8GgDMFWLLnuKPsSWkEe-iKFqgxv7XNK4zNcx7yqOqHMhBJpoqYTAJ6=w2662-h1000-no" role="presentation"  /></a>
+                    <a href="#"><img src="https://s17.postimg.org/4yx7dxk5b/bin8hk6_000_kira_ikonnikova.jpg" alt="home" width="750" /></a>
                     </div>
                     <div className="item">
-                    <a href="#"><img src="https://lh3.googleusercontent.com/D9zaY9PyPD50uRimDA1ivOFTbdxvhgYPcNMggtrEDILBVdioB4afUdSBAZdJYY4muBAL6O4y1QZY5I0wBJ-crr0X08a0oDOoYtgXFg--OQHeiExsCR-0MIn61SKc3QuPiMJqzfdXkmICIJT1cbrz1DOWashIYBE63VkzLFnMJqz-HVvlt91PJyEM-pz98V05u5mKTilCRaZqBY5lDIsCm1u5VVll6ejN87JfVLT3FMZGx6RMBc4aFrqWxyYpZV6nlEpa8yKB60OerGSNE6XIdFiziEXdsjjlfVLMmrHUdW-da3vGejZWxn1JKz2Nyy9dTf5GKrA4Og4sGJPtUYuUcSIhCD0_QBFi4_lAleHsvs9J8Jg8ixTlm6d1kB9MidraL-PPvN1QasCwLYnsdXgMY_wyHYdxMnJZpbhGEHgU143cwj7xS7wTzK3N_Z4_Pi7npOy6epuFujQAuy7B-WSC1ZfBrVXiBIZha0d0SzwxFxWcAZdVHrF2l-2yyTFoKZQMhpqsLqEOKDBpGSoAFLPdI4bMZ7Mop5MY9OgJ06d1FchR7SS23VyV--fxzE95P81_Q70pKxIQyxl1MimqeuAMwor9TRy94yMAplr4-VMoskU6m350giQf=w1600-h600-no" role="presentation" /></a>
+                    <a href="#"><img src="https://s17.postimg.org/871oqz6f3/bjej8by1jyq_rowan_heuvel.jpg" alt="home" width="750" /></a>
                     </div>
                     <div className="item">
-                    <a href="#"><img src="https://lh3.googleusercontent.com/L0qEhmgJN2Zv5SunflCOG9j2G4UJLYGZqsNqaDXxxnQ3-ChY3azBkP2ycBBtmEtpCoDcUJDS09rbSkHidr-MElggkGYC5LY-OXeJKK6M6_ZQOVyjvQadx5cAwrZzraRi67R42NLjldSQnA0DoCHhlAULhsrG3CCwLuGroBS6RvXjBOZyy9KF_CVWYRvCzIU5qYKxiKgOxdkPukELyDmwEjsIRLEk4e6QqNj2Nn3qeeDGSrLLS9tFJIYc4vQYVnzZxPHTsmeC5ArU4PRDfqh0Is6QPCNdmnQwXp83iLlACEf6efaQZUK-pOjge9aJDrMWHgHspDX9t8ruHLHA9CQcZu9F4FaGC1NKVtRPuA9CFoOY5kTUlkKnl-_kRZGLgNLcMMPCbSf5RXRgPmd-SBhZwNR6-KAzpGUaIoLDnwJrV3nNoVsBj4FtZz-aE_6RNLiHNSmSDwMkpt_hKHFw16t1ErpAq_akFp2C8I1POqg-bekTJN_z9kePSgZTj2ohXUTZ3ouszNkw7Y689oYKKjyJhPvU8UGYUUfKwPzB290bfFlgu4HFvD02ISTI_g8yFN-NHiHnUubnbDqzD5yzZQFNCtC2O1n7VOd3vcdWKYfZCz8JlT5bpYnQ=w1600-h600-no" role="presentation"  /></a>
+                    <a href="#"><img src="https://s17.postimg.org/yte5fyam7/cuzezaryfje_thirsty_turf_irrigation.jpg" alt="home" width="720" /></a>
                     </div>
                 </div>
 

@@ -3,7 +3,7 @@
   padding: 0;
 }
 
-.active {
+.navbar-nav .active {
   background-color:yellow !important;
 }
 
