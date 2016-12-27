@@ -3,7 +3,7 @@
      color: yellow;
   }
   .carousel-indicators li {
-      border-color: #f4511e;
+      border-color: black;
   }
   .carousel-indicators li.active {
       background-color: yellow;
